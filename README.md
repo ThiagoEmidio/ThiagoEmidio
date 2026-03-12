@@ -20,14 +20,14 @@
   <a href="https://www.linkedin.com/in/thiago-emidio-adm"> 
          <img target="_blank" alt="thiago-emidio | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-emidio-adm/" />
   </a>
-  <a> 
+  <!-- <a> 
         <img alt="thiago-emidio | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:t.emidio.dev@gmail.com" />
-    </a>
+    </a> -->
   <br>
   <br>
   <a href="https://github.com/ThiagoEmidio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoEmidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEmidio&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoEmidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEmidio&layout=compact&langs_count=7&theme=dracula"/> -->
   <br>
 </div>
 <!--
